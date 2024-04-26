@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|d:\\proyectos\\github\\coding-portfolio\\leetcode\\leetcode\\linkedlist\\mergetwosortedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|solutionrelative:linkedlist\\mergetwosortedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|d:\\proyectos\\github\\coding-portfolio\\leetcode\\leetcode\\linkedlist\\linkedlistcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|solutionrelative:linkedlist\\linkedlistcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|d:\\proyectos\\github\\coding-portfolio\\leetcode\\leetcode\\stack\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|solutionrelative:stack\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|d:\\proyectos\\github\\coding-portfolio\\leetcode\\leetcode\\intervals\\summaryranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|solutionrelative:intervals\\summaryranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|d:\\proyectos\\github\\coding-portfolio\\leetcode\\leetcode\\hashmap\\containsduplicateii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|solutionrelative:hashmap\\containsduplicateii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|d:\\proyectos\\github\\coding-portfolio\\leetcode\\leetcode\\hashmap\\happynumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFF939B-1804-4E36-B81B-C9520ECF5543}|LeetCode.csproj|solutionrelative:hashmap\\happynumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MergeTwoSortedLists.cs",
+              "DocumentMoniker": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\LinkedList\\MergeTwoSortedLists.cs",
+              "RelativeDocumentMoniker": "LinkedList\\MergeTwoSortedLists.cs",
+              "ToolTip": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\LinkedList\\MergeTwoSortedLists.cs",
+              "RelativeToolTip": "LinkedList\\MergeTwoSortedLists.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:47:38.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedListCycle.cs",
+              "DocumentMoniker": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\LinkedList\\LinkedListCycle.cs",
+              "RelativeDocumentMoniker": "LinkedList\\LinkedListCycle.cs",
+              "ToolTip": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\LinkedList\\LinkedListCycle.cs",
+              "RelativeToolTip": "LinkedList\\LinkedListCycle.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA8wEwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:45:52.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidParentheses.cs",
+              "DocumentMoniker": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\Stack\\ValidParentheses.cs",
+              "RelativeDocumentMoniker": "Stack\\ValidParentheses.cs",
+              "ToolTip": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\Stack\\ValidParentheses.cs",
+              "RelativeToolTip": "Stack\\ValidParentheses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:44:25.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SummaryRanges.cs",
+              "DocumentMoniker": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\Intervals\\SummaryRanges.cs",
+              "RelativeDocumentMoniker": "Intervals\\SummaryRanges.cs",
+              "ToolTip": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\Intervals\\SummaryRanges.cs",
+              "RelativeToolTip": "Intervals\\SummaryRanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:43:09.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContainsDuplicateII.cs",
+              "DocumentMoniker": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\Hashmap\\ContainsDuplicateII.cs",
+              "RelativeDocumentMoniker": "Hashmap\\ContainsDuplicateII.cs",
+              "ToolTip": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\Hashmap\\ContainsDuplicateII.cs",
+              "RelativeToolTip": "Hashmap\\ContainsDuplicateII.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:41:38.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HappyNumber.cs",
+              "DocumentMoniker": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\Hashmap\\HappyNumber.cs",
+              "RelativeDocumentMoniker": "Hashmap\\HappyNumber.cs",
+              "ToolTip": "D:\\Proyectos\\GitHub\\Coding-Portfolio\\LeetCode\\LeetCode\\Hashmap\\HappyNumber.cs",
+              "RelativeToolTip": "Hashmap\\HappyNumber.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwCcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:40:12.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
