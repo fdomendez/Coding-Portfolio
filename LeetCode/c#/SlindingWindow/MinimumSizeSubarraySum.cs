@@ -36,35 +36,51 @@ namespace LeetCode.SlindingWindow
 {
     internal class MinimumSizeSubarraySum
     {
-        public int MinSubArrayLen(int target, int[] nums)
-        {
+        public int MinSubArrayLen(int target, int[] nums) {
 
-            int min = 0;
+            int i = 0;
+            int j = 1;
 
-            int l = 0;
-            int r = 1;
+            int min = int.MaxValue;
 
+            int sum = nums[0];
 
-            while (r <= nums.Length)
+            if(sum> target)
             {
-                int sum = nums[l..r].Sum();
-
-                if (sum < target)
-                {
-                    r++;
-                }
-                else
-                {
-                    int result = r - l;
-                    if (min == 0 || min > result)
-                    {
-                        min = result;
-                    }
-                    l++;
-                }
-
+                return 1;
             }
+
+            while(j < nums.Length && i < nums.Length - 1)
+            {
+                //if to whole number is bigger than target the min es 1;
+                if(nums[j] >= target)
+                {
+                    return 1;
+                }
+
+                sum+=nums[j];
+                if(sum >= target)
+                {
+                    if(min > (j-i+1))
+                    {
+                        min = (j-i+1);
+                        //Console.WriteLine("{0} - {1}", i, j);
+                    }
+
+                    //move initial index
+                    sum-=nums[i];
+                    sum-=nums[j];
+                    i++;
+                }else{
+                    j++;
+                }            
+            }
+
+            if( min == int.MaxValue){
+                min = 0;
+            }
+
             return min;
-        }
+    }
     }
 }
