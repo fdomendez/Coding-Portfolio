@@ -38,12 +38,16 @@ Constraints:
 
  * @param {number[]} arr
  * @param {Function} fn
- * @return {number[]}
+ * @return {number[]}  
  */
 var map = function(arr, fn) {
-    let result = []
-    for(let i=0;i<arr.length;i++){
-        result.push(fn(arr[i],i))
+
+    let newArr = [];
+
+    for(let i =0; i < arr.length; i++)
+    {
+        newArr.push(fn(arr[i], i));
     }
-    return result
+
+    return newArr;
 };
